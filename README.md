@@ -22,7 +22,7 @@ Program to:
 15. Calculate factorial of a given number.
 16. Print table of the given number.
 17. Calculate square root of a given number.
-18. Calculate whether a student is eliggible for schlarship or not.
+18. Calculate whether a student is eligible for scholarship or not.
 19. Number Guessing Game.
 20. Heads and tails game.
 21. Print 12345 3 times.
